@@ -28,3 +28,5 @@ while True:
     else:
         print("Oops, invalid choice. Could you pick from the options listed above?")
 #print("This is what " + name + " has chosen so far")
+#print("Total cost: " + totalcost)
+#checkout=input("Would you like to check out?")
